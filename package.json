@@ -1,5 +1,6 @@
 {
   "name": "hotjelly",
+  "homepage": "https://voriah.github.io/hotjelly",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

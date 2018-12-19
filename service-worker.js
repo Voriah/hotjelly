@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hotjelly/precache-manifest.6f6b6c3a7d71a7535d5e3e231fa71793.js"
+  "/hotjelly/precache-manifest.439d5c648f4b9a8eddc4581aa51e21da.js"
 );
 
 workbox.clientsClaim();
